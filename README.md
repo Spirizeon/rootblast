@@ -1,4 +1,6 @@
 # RootBlast
+![image](https://github.com/Spirizeon/rootblast/assets/123345456/d7600095-f6b4-49b2-bb8f-28c2ce3c07ba)
+
 
 Process injection malware that clones windows processes, injects them with shellcode and executes them to attempt numerous reverse shells on the attacker. (Made with 🤎 for Windows users)
 
