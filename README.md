@@ -1,6 +1,6 @@
 # RootBlast
 
-Process injection malware that clones windows processes, injects them with shellcode and executes them to attempt numerous reverse shells on the attacker. 
+Process injection malware that clones windows processes, injects them with shellcode and executes them to attempt numerous reverse shells on the attacker. (Made with 🤎 for Windows users)
 
 ## Usage
 + Clone the repo
